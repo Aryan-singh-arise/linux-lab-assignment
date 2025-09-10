@@ -99,4 +99,4 @@ ANS-
 ANS- Ubuntu Desktop,Ubuntu Sever,Kubuntu,Xbuntu,Lubuntu,Ubuntu Mate.
 
 ### Q3 : Why Ubuntu popular among the Developers ? 
-ANS-  It has pre-installed development tools,supports many language, provides pacages managers(APT,Snap) , and Works well with cloud technologiess
+ANS-  It has pre-installed development tools,supports many language, provides pacages managers(APT,Snap) , and Works well with cloud technologiess7
