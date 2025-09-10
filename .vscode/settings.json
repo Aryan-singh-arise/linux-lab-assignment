@@ -1,0 +1,12 @@
+{
+    // Enable HTML language features
+    "files.associations": {
+        "*.html": "html"
+    },
+    // Format HTML files on save
+    "editor.formatOnSave": true,
+    // Enable Emmet abbreviations in HTML files
+    "emmet.includeLanguages": {
+        "html": "html"
+    }
+}
